@@ -1,2 +1,2 @@
-# -MIPTAlgorythmsTerm1
+# MIPTAlgorythmsTerm1
 Алгоритмы 1 семестра ФИВТ
